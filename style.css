@@ -52,9 +52,9 @@ p {
 }
 .logo {
 
-    margin:30vh 0px 0px 0px;
+    margin:30vh auto auto 0px;
   	background-image:url("http://www.mx7.com/i/266/FtIHch.jpg");
-	margin: auto;
+	
 	width:700px;
 	height:510px; 
 }
