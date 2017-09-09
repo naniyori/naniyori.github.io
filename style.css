@@ -39,7 +39,7 @@ h1 {
   font-family: "Sukhumvit Set","Prompt", sans-serif;}
 .desc{
 	margin:0;
-	
+	  padding:0% 25% 0px 25%;
 	text-align: center;
     font-family:"Sukhumvit Set","Prompt", sans-serif;
     color:#000;
@@ -51,9 +51,9 @@ img {
     max-height: 100%;
 }
 .logo {
-	 margin:15vh auto auto auto;
-	width:100vh;
-	height:auto; 
+	 margin:auto;
+	width:120vh;
+	height:120vh; 
 }
 
 section {
@@ -97,7 +97,7 @@ section {
     font-size:22px;
   }
 
- p{
+ .desc{
 	margin:0;
 	  padding:0% 8% 0px 8%;
     font-size:15px;
