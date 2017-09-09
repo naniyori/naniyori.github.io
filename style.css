@@ -59,7 +59,10 @@ p {
 }
 
 .part{
-	margin:50px;
+
+    margin:20vh 0px 0px 0px;
+    height:100%;
+
 }
 .logo_desc {
 	margin:0;
