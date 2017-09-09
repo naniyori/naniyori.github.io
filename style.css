@@ -51,7 +51,7 @@ img {
     max-height: 100%;
 }
 .logo {
-	 margin:auto;
+	 margin:0 auto auto auto auto;
 	width:120vh;
 	height:120vh; 
 }
