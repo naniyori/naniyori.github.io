@@ -37,9 +37,7 @@ p{
     font-size:20px;
 }
 
-.logoedit{
-	margin:auto;
-}
+
 .logo {
 	width: 700px;
 	height:500px;
@@ -71,18 +69,25 @@ section {
 
 
 
-@media screen and (max-width:800px) {
+@media screen and (max-width : 800px ){
 
 
- 
+	.logo_desc{
+		
+		font-size: 60px;
+	}
   h1 {
     font-size:50px;
   }
+	section {
+    margin:20vh 0px 0px 0px;
+   
+  }
 
+ p{
 
- .p{
-	margin:0;
-	  padding:0% 8% 0px 8%;
-    font-size:15px;
+	margin:0; 
+	  padding:0% 8% 0% 8%;
+    font-size:20px;
 }
 }
