@@ -90,4 +90,9 @@ section {
 	  padding:0% 8% 0% 8%;
     font-size:20px;
 }
+	.logo {
+	width: 300px;
+	height:200px;
+
+	}
 }
